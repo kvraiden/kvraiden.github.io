@@ -1,5 +1,9 @@
-body {
-    background-image: KandarpXRaiden/KandarpXRaiden.github.io/MF.jpg;
+
+    .rd{
+        background-image: KandarpXRaiden/KandarpXRaiden.github.io/MF.jpg;
+        }
+    body {
+   
     margin: 60px auto;
     width: 70%;
 }
