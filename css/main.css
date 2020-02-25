@@ -1,3 +1,8 @@
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+}
 body {
     background: "#89cff0";
     margin: 60px auto;
