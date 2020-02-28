@@ -4,10 +4,13 @@
     height:auto;
 }
 body {
-    background: "#89cff0";
+    background-image: url("../Image/MF.jpg");
+    background-size: 100%;
+    margin-bottom: 0px;
     margin: 60px auto;
     width: 70%;
-    }
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
