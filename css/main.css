@@ -6,6 +6,7 @@ html, body {
     width:100%;
     min-width:1000px;
     height:auto;
+    overflow-x: hidden;
 }
 body {
     background-image: url("../Image/MF.jpg");
