@@ -1,3 +1,6 @@
+#grad {
+  background-image: linear-gradient(to right, lightblue , hotpink);
+}
 html, body {
     max-width: 100%;
     overflow-x: hidden;
