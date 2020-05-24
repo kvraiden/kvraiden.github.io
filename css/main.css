@@ -1,9 +1,8 @@
-#grad {
-  background-image: linear-gradient(to right, lightblue , hotpink);
-}
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+    background-image: linear-gradient(to right, lightblue , hotpink);
 }
 .WebContainer{
     width:100%;
