@@ -1,4 +1,8 @@
-.css-selector {
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background-image: linear-gradient(to right, skyblue , hotpink);
+    .css-selector {
     background: linear-gradient(270deg, #195ed0, #e8840f);
     background-size: 400% 400%;
 
@@ -22,10 +26,6 @@
     50%{background-position:100% 97%}
     100%{background-position:0% 4%}
 }
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-    background-image: linear-gradient(to right, skyblue , hotpink);
 }
 .WebContainer{
     width:100%;
