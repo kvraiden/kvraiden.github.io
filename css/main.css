@@ -1,7 +1,7 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background-image: linear-gradient(to right, skyblue , hotpink);
+    background-image: --var(gradient);
     .css-selector {
     background: linear-gradient(270deg, #195ed0, #e8840f);
     background-size: 400% 400%;
