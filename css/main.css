@@ -15,9 +15,7 @@ html, body {
 body {
    background-image: linear-gradient(to right, navyblue ,orange);
     background-size: 100%;
-    margin-bottom: 0px;
-    margin: 60px auto;
-    width: 70%;
+    
 }
 nav ul li, footer ul li {
     display: inline;
