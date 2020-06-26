@@ -3,7 +3,7 @@ html, body {
     overflow-x: hidden;
     background-image: --var(gradient);
     .css-selector {
-    background: linear-gradient(270deg, #195ed0, #e8840f);
+    background: --var(gradient)
     background-size: 400% 400%;
 
     -webkit-animation: AnimationName 16s ease infinite;
