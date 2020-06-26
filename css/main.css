@@ -2,7 +2,30 @@ html, body {
     max-width: 100%;
     overflow-x: hidden;
     background-image: --var(gradient);
-    
+    .css-selector {
+    background: --var(gradient)
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 16s ease infinite;
+    -moz-animation: AnimationName 16s ease infinite;
+    animation: AnimationName 16s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
 }
 .WebContainer{
     width:100%;
@@ -13,9 +36,18 @@ html, body {
    
 }
 body {
-   background-image: linear-gradient(to right, navyblue ,orange);
+    background-image: linear-gradient(to right, navyblue , orange);
     background-size: 100%;
-    
+    margin-bottom: 0px;
+    margin: 60px auto;
+    width: 70%;
+}
+
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
