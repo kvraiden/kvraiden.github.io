@@ -2,7 +2,18 @@ html, body {
     max-width: 100%;
     overflow-x: hidden;
     background-image: --var(gradient);
-    .css-selector {
+    
+}
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
+   
+}
+body {
+   .css-selector {
     background: --var(gradient)
     background-size: 400% 400%;
 
@@ -25,23 +36,7 @@ html, body {
     0%{background-position:0% 4%}
     50%{background-position:100% 97%}
     100%{background-position:0% 4%}
-}
-}
-.WebContainer{
-    width:100%;
-    min-width:1000px;
-    height:auto;
-    overflow-x: hidden;
-    overflow-y: hidden;
-   
-}
-body {
-    background-image: linear-gradient(to right, navyblue ,orange);
-    background-size: 100%;
-    margin-bottom: 0px;
-    margin: 60px auto;
-    width: 70%;
-}
+}}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
