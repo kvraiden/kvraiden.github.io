@@ -1,10 +1,16 @@
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background-image: <li><a href="/css/manhattan.jpg"></a></li>
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
 }
     
 .WebContainer{
+    
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
     width:100%;
     min-width:1000px;
     height:auto;
@@ -13,7 +19,8 @@ html, body {
    
 }
 body {
-    background-image: <li><a href="/css/manhattan.jpg"></a></li>
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
     background-size: 100%;
     margin-bottom: 0px;
     margin: 60px auto;
