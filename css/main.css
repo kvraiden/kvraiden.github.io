@@ -1,7 +1,7 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background-image: <a href="/css/manhattan.jpg"></a>;
+    background-image: url("https://github.com/kvraiden/kvraiden.github.io/blob/master/css/manhattan.jpg");
 }
     
 .WebContainer{
