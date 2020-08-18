@@ -1,7 +1,7 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background-image: linear-gradient(to right,navyblue,orange);
+    background-image: https://github.com/kvraiden/kvraiden.github.io/tree/master/css;
 }
     
 .WebContainer{
@@ -13,7 +13,7 @@ html, body {
    
 }
 body {
-    background-image: linear-gradient(to right, navyblue , orange);
+    background-image: https://github.com/kvraiden/kvraiden.github.io/tree/master/css;
     background-size: 100%;
     margin-bottom: 0px;
     margin: 60px auto;
