@@ -1,7 +1,7 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background-image: "https://github.com/kvraiden/kvraiden.github.io/blob/master/css/("manhattan.jpg");
+    background-image: <li><a href="/css/manhattan.jpg"></a></li>
 }
     
 .WebContainer{
@@ -13,7 +13,7 @@ html, body {
    
 }
 body {
-    background-image: "https://github.com/kvraiden/kvraiden.github.io/blob/master/css/("manhattan.jpg");
+    background-image: <li><a href="/css/manhattan.jpg"></a></li>
     background-size: 100%;
     margin-bottom: 0px;
     margin: 60px auto;
